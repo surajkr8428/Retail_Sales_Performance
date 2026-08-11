@@ -1,0 +1,39 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+/.idea/
+/.vscode/
+dist/
+build/
+*.egg-info/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/raw/
+data/processed/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
