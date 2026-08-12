@@ -122,6 +122,3 @@ lint + tests on every push.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-MIT — see [LICENSE](LICENSE).
