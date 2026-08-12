@@ -102,7 +102,6 @@ PowerShell). Both do the same `git mv` operations — pick one, don't run both.
 
 ## Key findings
 
-*(fill in with your real numbers)*
 - Total revenue analyzed: $[X], blended profit margin [X]%
 - Top-performing region: [Region] — $[X]
 - [N] states flagged as underperforming (negative profit margin)
