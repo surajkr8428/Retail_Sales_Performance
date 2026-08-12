@@ -11,7 +11,7 @@ turning raw transaction data into revenue, regional, and product-level insights.
   trends, regional/store performance, product profitability, and seasonality.
 - **Intended users:** data analysts, BI engineers, hiring managers reviewing this as a
   portfolio project.
-- **Status:** Actively maintained — core pipeline (SQL + Power BI + Streamlit)
+- **Status:** Actively maintained — core pipeline (SQL + Power BI + Streamlit) is complete; ongoing polish and feature additions
 
 ## What's in this project
 
